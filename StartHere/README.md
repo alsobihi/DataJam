@@ -65,9 +65,9 @@ ___________________
 راح تظهر لك رسالة مثل كذا 
 
 ![image](https://github.com/alsobihi/DataJam/assets/72046870/aae60f5e-08d8-4286-97f0-006d8393b130)
+كذا يعني كل شي تمام 
 ___________________
 
-كذا يعني كل شي تمام 
 
 وراح تحصل مجلد المشروع موجود `DataJam`
 ![image](https://github.com/alsobihi/DataJam/assets/72046870/213e2d8e-062a-4480-9f3b-d6b403244936)
@@ -84,5 +84,31 @@ ___________________
 * `README.MD`
 ![image](https://github.com/alsobihi/DataJam/assets/72046870/892801e1-22d2-41c9-85fa-2a7e2856c299)
 
+___________________
+
+أفتح VSCode
+![image](https://github.com/alsobihi/DataJam/assets/72046870/f8663b79-deba-4a45-95a7-1371d22f4428)
+
+___________________
+ 
+أختار `Open Folder` 
+
+![image](https://github.com/alsobihi/DataJam/assets/72046870/90ba52a8-295b-4e8f-a5d4-f4cff1836656)
+
+___________________
+قم بتحديد مجلد المشروع
+![image](https://github.com/alsobihi/DataJam/assets/72046870/5e28b9dc-0530-46e5-9048-affab162465e)
+
+
+___________________
+ستجد أن المجلد الخاص بك لونه أخضر
+![image](https://github.com/alsobihi/DataJam/assets/72046870/077e487b-8077-4635-8d97-b79506b9ce55)
+
+___________________
+اكتب أي ملاحظة ثم الضغط السهم الصغير ليظهر لك خيار `Commit & Push` 
+![image](https://github.com/alsobihi/DataJam/assets/72046870/d9d28797-caf8-4598-b148-59079ac5cd56)
+
+___________________
+___________________
 
 
