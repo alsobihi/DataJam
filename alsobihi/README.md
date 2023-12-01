@@ -1,5 +1,10 @@
 # خطوات تجهيز البيانات
 
+
+مصدر البيانات:
+https://od.data.gov.sa/Data/ar/dataset/statistics-on-national-blood-donor-centers/resource/d79ffae5-6ea6-44b6-a146-244a8ace0c65
+
+
 ## مختصر الاحصائية 2022
 ### تقرير رقم (1) مختصر التقرير الإحصائي لبنوك الدم التابعة لوزارة الصحة بجميع مناطق ومحافظات المملكة لعام 2022م
 
