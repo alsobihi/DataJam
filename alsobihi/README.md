@@ -1,10 +1,14 @@
-![image](https://github.com/alsobihi/DataJam/assets/72046870/597c1a31-c2c9-4c87-af0c-bc75b3f53515)
+__________
 
 >  [!IMPORTANT]
 > 
 >  لمشاهدة النتيجة النهائية [أضغط هنا](https://public.tableau.com/app/profile/saleh.alsobihi/viz/2022_17014501349100/sheet15?publish=yes)
 
 
+
+![image](https://github.com/alsobihi/DataJam/assets/72046870/597c1a31-c2c9-4c87-af0c-bc75b3f53515)
+
+__________
 
 
 # البداية
