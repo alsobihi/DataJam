@@ -1,3 +1,10 @@
+![image](https://github.com/alsobihi/DataJam/assets/72046870/597c1a31-c2c9-4c87-af0c-bc75b3f53515)
+
+
+
+
+
+
 # البداية
 
 ## تجهيز البيانات
