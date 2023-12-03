@@ -21,7 +21,7 @@
 ## Dalal Alsayel [![My Skills](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/dalalalsayel) 
 
 
-## Ruba Asiri [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruba-asiri) 
+## Ruba Asiri  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruba-asiri) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ruba_asiri_) 
 
 
 ___
