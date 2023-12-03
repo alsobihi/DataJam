@@ -21,3 +21,21 @@ ___
 
 
 
+
+
+## انجازات الفريق
+
+
+### مختصر التقرير الإحصائي لبنوك الدم 2022م
+
+<p align="center">
+![مختصر التقرير الإحصائي لبنوك الدم 2022م](/images/image.png)
+</p>
+
+[**أضغط هنا لزيارة العرض**](https://public.tableau.com/views/2022_17014839386520/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
+
+___
+
