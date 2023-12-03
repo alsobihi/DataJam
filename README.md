@@ -103,4 +103,10 @@ ___
 
 ___
 
+### تقرير بنك الدم في المملكة 2022
+
+<p align="center">
+<img src="images/image7.png" width="450"  border="10"/>
+</p>
+
 
