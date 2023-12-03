@@ -15,7 +15,7 @@
 
 
 
-## Zahra’a Al-Sonaiher  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zahra-a-al-sonaiher-a3259b206) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ZhrHassan)[![My Skills](https://skillicons.dev/icons?i=discord)](zee0x1)
+## Zahra’a Al-Sonaiher  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zahra-a-al-sonaiher-a3259b206) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ZhrHassan)[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/779271843550330901)
 
 
 ## Dalal Alsayel [![My Skills](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/dalalalsayel) 
