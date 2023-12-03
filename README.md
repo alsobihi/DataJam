@@ -50,3 +50,17 @@ ___
 
 ___
 
+### تقرير بنك الدم في المملكة 2022
+
+<p align="center">
+<img src="images/image2.png" width="450" height="350" border="10"/>
+</p>
+
+
+<p align="center"><b>
+<a href="https://public.tableau.com/app/profile/saleh.alsobihi/viz/2022_17014501349100/sheet15?publish=yes">أضغط هنا لزيارة العرض</a>
+:link:
+</b>
+</p>
+
+
