@@ -64,3 +64,43 @@ ___
 </p>
 
 
+
+___
+
+### تقرير بنك الدم في المملكة 2022
+
+<p align="center">
+<img src="images/image3.png" width="450" height="350" border="10"/>
+</p>
+
+
+
+
+___
+
+### تقرير بنك الدم في المملكة 2022
+
+<p align="center">
+<img src="images/image4.png" width="450" height="350" border="10"/>
+</p>
+
+
+
+### تقرير بنك الدم في المملكة 2022
+
+<p align="center">
+<img src="images/image5.png" width="450"  border="10"/>
+</p>
+
+
+
+### تقرير بنك الدم في المملكة 2022
+
+<p align="center">
+<img src="images/image6.png" width="450"  border="10"/>
+</p>
+
+
+
+
+
