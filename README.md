@@ -29,12 +29,15 @@ ___
 ### مختصر التقرير الإحصائي لبنوك الدم 2022م
 
 <p align="center">
-![مختصر التقرير الإحصائي لبنوك الدم 2022م](/images/image.png)
+<img src="images/image.png" width="450" height="350" border="10"/>
 </p>
 
-[**أضغط هنا لزيارة العرض**](https://public.tableau.com/views/2022_17014839386520/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-
+<p align="center"><b>
+<a href="https://public.tableau.com/views/2022_17014839386520/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">أضغط هنا لزيارة العرض</a>
+:link:
+</b>
+</p>
 
 
 ___
